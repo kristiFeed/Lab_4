@@ -6,7 +6,7 @@ int main() {
     int i, j;
     int s = 0;
     double p = 1; 
-    double res = 0;
+    float res = 0;
     
     for (i = 1; i <= 20; i++) {
 
